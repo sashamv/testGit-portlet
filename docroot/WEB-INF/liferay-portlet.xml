@@ -34,6 +34,7 @@
 		<portlet-name>test4</portlet-name>
 		<icon>/icon.png</icon>
 		<header-portlet-css>/css/main.css</header-portlet-css>
+        <header-portlet-css>/css/test4/test4.css</header-portlet-css>
 		<footer-portlet-javascript>
 			/js/main.js
 		</footer-portlet-javascript>
