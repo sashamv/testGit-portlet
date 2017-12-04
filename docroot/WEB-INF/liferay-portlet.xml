@@ -16,9 +16,12 @@
 		<portlet-name>test2</portlet-name>
 		<icon>/icon.png</icon>
 		<header-portlet-css>/css/main.css</header-portlet-css>
+        <header-portlet-javascript>/js/main.js</header-portlet-javascript>
 		<footer-portlet-javascript>
 			/js/main.js
 		</footer-portlet-javascript>
+        <footer-portlet-javascript>/js/main.js</footer-portlet-javascript>
+        <footer-portlet-javascript>/js/test2/test2.js</footer-portlet-javascript>
 		<css-class-wrapper>test2-portlet</css-class-wrapper>
 	</portlet>
 	<portlet>
