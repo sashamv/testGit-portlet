@@ -6,4 +6,7 @@
 	<category name="NCU">
 		<portlet id="test1"></portlet>
 	</category>
+	<category name="category.sample">
+		<portlet id="test2"></portlet>
+	</category>
 </display>
