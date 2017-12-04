@@ -8,5 +8,6 @@
 	</category>
 	<category name="category.sample">
 		<portlet id="test2"></portlet>
+		<portlet id="test3"></portlet>
 	</category>
 </display>
