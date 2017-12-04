@@ -3,4 +3,7 @@
 
 <display>
 	
+	<category name="NCU">
+		<portlet id="test1"></portlet>
+	</category>
 </display>
